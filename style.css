@@ -1,0 +1,32 @@
+body {
+  background-color: #f0f0d8;
+}
+
+h1{
+  text-align: center;
+  padding: 30px;
+  border-radius:560px;
+  background-color:#59d999;
+}
+
+.imagem{
+  max-width: 500px;
+  max-height: 500px;
+}
+
+
+
+
+
+
+
+
+/*tag{
+  Código CSS
+.color1 { #beed80 };
+.color2 { #59d999 };
+.color3 { #31ada1 };
+.color4 { #51647a };
+.color5 { #453c5c };
+*
+}
